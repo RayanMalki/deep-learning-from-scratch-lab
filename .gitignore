@@ -6,6 +6,9 @@ venv/
 .ipynb_checkpoints/
 .DS_Store
 
+# Personal planning doc (not for GitHub)
+roadmap.md
+
 # ML artifacts
 *.pt
 *.pth
